@@ -13,7 +13,7 @@ Bienvenido al Syllabus del curso _Bootcamp_. Aquí vamos a tener todos los recur
 
 ## Videos de Clase
 
-En este [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adrian_soto_uai_cl/ElcGwgiqYltBoaQvrmRn9n8By7YuxCbZFfQFOgAk6tbAOw?e=OG6R6s) vas a encontrar los videos de clase.
+En este [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adrian_soto_uai_cl/ElcGwgiqYltBoaQvrmRn9n8By7YuxCbZFfQFOgAk6tbAOw?e=2UGUIb) vas a encontrar los videos de clase.
 
 ## Libro de Python
 
